@@ -11,15 +11,11 @@
 
 ## 🪔 关于我
 
-- 🔥 热爱技术与创作
-- 🌌 专注开发与系统架构
-- 🧠 持续探索 AI / 前端 / Rust / 网络技术
-- 🏯 构建属于自己的技术世界
+- 🔥 做力所能及的事情让社区变得更好
 
 ---
 
 ## 🛠 技术栈
-
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
@@ -30,32 +26,28 @@
 
 ---
 
+
 ## 📊 GitHub 数据
 
+<div align="center">
+  <img src="https://dongshanrandeng.vercel.app/api?username=KonshinHaoshin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://dongshanrandeng.vercel.app/api/top-langs/?username=KonshinHaoshin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" width="40%" />
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KonshinHaoshin&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=KonshinHaoshin&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonshinHaoshin&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://dongshanrandeng.vercel.app/api?username=KonshinHaoshin&theme=tokyonight&hide_border=true&date_format=M+j%5B%2C+Y%5D)
 
 ---
 
 ## 🐍 贡献轨迹
 
-<div align="center">
-
-![snake gif](https://github.com/KonshinHaoshin/KonshinHaoshin/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KonshinHaoshin/KonshinHaoshin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KonshinHaoshin/KonshinHaoshin/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KonshinHaoshin/KonshinHaoshin/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
 <div align="center">
-
-🪔 燃灯不灭 · 代码长明
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=KonshinHaoshin&color=blueviolet&style=flat-square)
-
 </div>
