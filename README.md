@@ -27,7 +27,7 @@
 ---
 
 
-## 📊 GitHub 数据
+## 📊 GitHub 
 
 <div align="center">
   <img src="https://dongshanrandeng.vercel.app/api?username=KonshinHaoshin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
