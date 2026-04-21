@@ -23,7 +23,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KonshinHaoshin/KonshinHaoshin/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-<div align="center">
-![Visitor Count](https://komarev.com/ghpvc/?username=KonshinHaoshin&color=blueviolet&style=flat-square)
-</div>
